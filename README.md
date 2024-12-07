@@ -20,3 +20,6 @@ Phase 2 (Thursday):
 
 Phase 3 (Saturday):
 - Having a proper Navbar
+- Added the Details Page for each movie
+- Added "Go Back" navigation
+- Disable "Add to Watchlist" after adding it
